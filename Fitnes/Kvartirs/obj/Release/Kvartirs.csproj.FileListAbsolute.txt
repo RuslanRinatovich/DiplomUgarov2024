@@ -1,0 +1,42 @@
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.ResolveComReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.BaseForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.CustomerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.FlatForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.MaterialForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.RoomsFlat.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.TarifForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.GenerateResource.Cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Release\HabEnergo.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Release\HabEnergo.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Release\HabEnergo.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\HabEnergo.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Release\HabEnergo.pdb
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Release\SFintes.exe.config
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.ResolveComReference.cache
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Release\SFintes.exe
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Release\SFintes.pdb
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.csprojResolveAssemblyReference.cache
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllFlats.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.AllBuildingForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.BuildingForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.CustomerForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.FlatForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.AbonementForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.StartForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.MainForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.Properties.Resources.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.TrainerForm.resources
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\Kvartirs.csproj.GenerateResource.Cache
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\SFintes.exe
+d:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Release\SFintes.pdb
+z:\ДИПЛОМ 2024\Угаров\Fitnes\Kvartirs\obj\Release\Kvartirs.csproj.AssemblyReference.cache
+z:\ДИПЛОМ 2024\Угаров\Fitnes\Kvartirs\obj\Release\Kvartirs.csproj.ResolveComReference.cache
+z:\ДИПЛОМ 2024\Угаров\Fitnes\Kvartirs\obj\Release\SFintes.exe
+z:\ДИПЛОМ 2024\Угаров\Fitnes\Kvartirs\obj\Release\SFintes.pdb

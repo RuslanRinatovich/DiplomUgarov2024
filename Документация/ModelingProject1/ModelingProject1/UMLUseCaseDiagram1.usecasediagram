@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="fe30d8df-cd99-4c13-8131-49b0ff4aaff5" name="UMLUseCaseDiagram1" linkedPackageId="75fb6cff-d25a-47ad-a604-ca8aac31b985" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="f301c9be-7062-4e75-a1bc-2125a04f37b9" name="Менеджер" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="034ddc7b-a6fd-4a4f-9bc4-b6f847743c1f" />
+        <targetEnds>
+          <association Id="a1450cff-1691-4114-bcc8-f2697138ecb0" isDerived="false" sourceEndRoleName="Администратор" targetEndRoleName="Ввод, удаление и корректировка данных" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="7fe6d2f9-799e-4e3e-9e76-a88cec8b3a55" LastKnownName="Ввод, редактирование, удаление данных справочников" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="4c45f7a5-e001-4fe0-a8f6-e61fc10e87d7" name="Администратор" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="d1d15670-10f6-4089-95a5-7188691d412c" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="46f86684-9574-47ae-b65c-9c5598e35651" name="Ввод, удаление и корректировка данных" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="dab4d0be-a642-4010-a827-dd0b870f6fd0" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="9625000a-07e7-49d3-ae15-55d71cdc4b33" />
+          </association>
+          <association Id="a93c38fb-7b8d-4857-b264-c9f3bdee4a85" isDerived="false" sourceEndRoleName="Администратор" targetEndRoleName="UseCase2" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="3a2349ed-6fe6-4791-97eb-cfbd210ff9c5" LastKnownName="Ввод посещения" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="0154e69a-79f8-401e-ab5e-d25eb1fdf638" name="Администратор" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="a7f50990-78b1-46f7-8dbf-779b975207a2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="51f26925-846d-4f81-adca-b166d687a676" name="UseCase2" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="fd28e100-d56a-40e4-a57c-1e149c3365b3" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="35323bb3-08cb-4518-a90d-5c43901cf7d4" />
+          </association>
+          <association Id="8db88988-110b-4790-8a9f-f76ba92007a7" isDerived="false" sourceEndRoleName="Менеджер" targetEndRoleName="Учет заявок" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="3c312c8b-4398-4e26-96dd-fe92d0a52afe" LastKnownName="Учёт абонементов" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8778d120-4361-4185-b2ec-f5b294f86ed9" name="Менеджер" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="ba868ddc-b080-4ae1-9eb3-685343f3e9a5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ace6d225-e76a-44ef-9533-6f7b85dee225" name="Учет заявок" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="7e4eb045-4a11-463c-a592-1ec78aa2c270" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b96d1562-ab20-4548-bcf1-4f579c9837ef" />
+          </association>
+          <association Id="6f2a3aaa-5707-4a86-802a-c21d853c0a0f" isDerived="false" sourceEndRoleName="Менеджер" targetEndRoleName="Учёт помещений" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="d8cecace-e514-4e36-b9eb-de5b1e7954f2" LastKnownName="Выдача информации" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="850ff1b7-8515-40fa-aaec-142b2b777b9c" name="Менеджер" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="4b266681-9d37-4bd8-914f-d9e88c99206e" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="fd21c032-9002-4839-bcb7-6df42818eaa6" name="Учёт помещений" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="92f1f20a-1a47-43a0-b785-f87b885b6753" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="431ff33f-5b2d-402f-b05f-5cc71665f75e" />
+          </association>
+          <association Id="3821aaf3-cf6a-4eb9-9648-11771a447b18" isDerived="false" sourceEndRoleName="Менеджер" targetEndRoleName="Учёт зданий1" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="9f255849-1b65-4c3e-b031-cbd304787b02" LastKnownName="Формирование отчётов" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8f901182-078e-4fb5-bdd5-74a35fa20689" name="Менеджер" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="2cd2f193-1e9d-4e5a-b0cd-4661aaafa18d" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a600536e-28c7-415e-8a4b-3d80edf5146f" name="Учёт зданий1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="1d37a50b-3c9f-484c-ae4e-71c0f4c1cae7" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="60f7220d-edd0-43ea-b6d9-d4cb96a6cc03" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="7fe6d2f9-799e-4e3e-9e76-a88cec8b3a55" name="Ввод, редактирование, удаление данных справочников" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="4f286815-0c17-411f-95e9-d8973345a4e2" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="3a2349ed-6fe6-4791-97eb-cfbd210ff9c5" name="Ввод посещения" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="c1d26a48-699c-492f-af5c-6ce365ef18ff" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="3c312c8b-4398-4e26-96dd-fe92d0a52afe" name="Учёт абонементов" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b1c63b33-7439-48d3-b55a-64af90e7495f" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="d8cecace-e514-4e36-b9eb-de5b1e7954f2" name="Выдача информации" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="82cc2eaf-c4ac-45db-bd3d-7da3936407dd" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="9f255849-1b65-4c3e-b031-cbd304787b02" name="Формирование отчётов" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b7518231-8e79-422f-b3d9-97a901f67357" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="75fb6cff-d25a-47ad-a604-ca8aac31b985" name="ModelingProject1">
+    <elementDefinition Id="8bfc6740-6bb1-4d59-bc0c-5d3df003f9a8" />
+    <profileInstances>
+      <packageHasProfileInstances Id="6432a17a-0943-4de3-8569-893cb0e2b0a6">
+        <profileInstance Id="c177d3c6-e7bd-4472-9b4a-ddd4acb7e929" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="75d69f7a-64de-4cd5-b9ea-91eb21d7d796">
+        <profileInstance Id="58625f1d-b548-4ff0-bc89-a7d1a2fa5e36" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

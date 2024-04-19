@@ -1,0 +1,130 @@
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MaterialForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe.config
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.exe
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.pdb
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.pdb
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MaterialForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+d:\Руслан\Нугманова 157\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.RoomsFlat.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MaterialForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.RoomsFlat.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Нугманова 157\Версия 2.0\Нугманова 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.ResolveComReference.cache
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe.config
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.ResolveComReference.cache
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.exe
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.pdb
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.exe
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\Kvartirs.pdb
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MaterialForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.RoomsFlat.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.TarifForm.resources
+d:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.CustomerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.ResolveComReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.CustomerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MaterialForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.RoomsFlat.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.TarifForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+D:\Руслан\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\HabEnergo.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\HabEnergo.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\bin\Debug\HabEnergo.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\HabEnergo.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Рахманов 157\Kvartirs\Kvartirs\obj\Debug\HabEnergo.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.ResolveComReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.CustomerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AbonementForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.TrainerForm.resources
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\HabEnergo.exe.config
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.ResolveComReference.cache
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\HabEnergo.exe
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\HabEnergo.pdb
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\HabEnergo.exe
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\HabEnergo.pdb
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllFlats.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BaseForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AllBuildingForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.BuildingForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.CustomerForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.FlatForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.AbonementForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.RoomsFlat.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.StartForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.MainForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.Properties.Resources.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.TarifForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.TrainerForm.resources
+d:\Руслан\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csproj.GenerateResource.Cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\Kvartirs.csprojResolveAssemblyReference.cache
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\SFintes.exe.config
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\SFintes.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\bin\Debug\SFintes.pdb
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\SFintes.exe
+D:\Users\Главный\Мои документы\ЗМК\ДИПЛОМЫ 2019\Бикулов 155\Kvartirs\Kvartirs\obj\Debug\SFintes.pdb
